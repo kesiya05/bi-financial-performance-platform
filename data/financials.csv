@@ -1,0 +1,361 @@
+month,type,category,actual,budget
+2023-01,revenue,Dine-in,476577.47,478400.0
+2023-01,revenue,Delivery,194123.84,193200.0
+2023-01,revenue,Catering,66585.53,64400.0
+2023-01,expense,Food & beverage,227689.76,228160.0
+2023-01,expense,Labour,235630.81,235520.0
+2023-01,expense,Rent,62325.07,62000.0
+2023-01,expense,Utilities,23545.91,24000.0
+2023-01,expense,Marketing,22015.72,22000.0
+2023-01,expense,Maintenance,11085.72,11000.0
+2023-01,expense,Admin,28492.2,28000.0
+2023-02,revenue,Dine-in,452803.98,468000.0
+2023-02,revenue,Delivery,186027.43,189000.0
+2023-02,revenue,Catering,60936.98,63000.0
+2023-02,expense,Food & beverage,227346.76,223200.0
+2023-02,expense,Labour,233074.09,230400.0
+2023-02,expense,Rent,60295.79,62000.0
+2023-02,expense,Utilities,24694.36,24000.0
+2023-02,expense,Marketing,22613.48,22000.0
+2023-02,expense,Maintenance,11101.59,11000.0
+2023-02,expense,Admin,28194.15,28000.0
+2023-03,revenue,Dine-in,490579.2,504400.0
+2023-03,revenue,Delivery,195796.45,203700.0
+2023-03,revenue,Catering,68054.17,67900.0
+2023-03,expense,Food & beverage,234202.74,240560.0
+2023-03,expense,Labour,243704.35,248320.0
+2023-03,expense,Rent,61040.03,62000.0
+2023-03,expense,Utilities,23323.32,24000.0
+2023-03,expense,Marketing,21952.39,22000.0
+2023-03,expense,Maintenance,10960.75,11000.0
+2023-03,expense,Admin,28575.28,28000.0
+2023-04,revenue,Dine-in,520795.56,520000.0
+2023-04,revenue,Delivery,212356.9,210000.0
+2023-04,revenue,Catering,69998.73,70000.0
+2023-04,expense,Food & beverage,250417.25,248000.0
+2023-04,expense,Labour,255344.59,256000.0
+2023-04,expense,Rent,61174.77,62000.0
+2023-04,expense,Utilities,24716.62,24000.0
+2023-04,expense,Marketing,22654.31,22000.0
+2023-04,expense,Maintenance,11224.54,11000.0
+2023-04,expense,Admin,28349.12,28000.0
+2023-05,revenue,Dine-in,537931.31,546000.0
+2023-05,revenue,Delivery,215731.31,220500.0
+2023-05,revenue,Catering,72259.55,73500.0
+2023-05,expense,Food & beverage,253685.17,260400.0
+2023-05,expense,Labour,273094.69,268800.0
+2023-05,expense,Rent,61629.49,62000.0
+2023-05,expense,Utilities,24499.08,24000.0
+2023-05,expense,Marketing,21850.2,22000.0
+2023-05,expense,Maintenance,11302.31,11000.0
+2023-05,expense,Admin,28583.48,28000.0
+2023-06,revenue,Dine-in,539160.48,561600.0
+2023-06,revenue,Delivery,221533.11,226800.0
+2023-06,revenue,Catering,78081.32,75600.0
+2023-06,expense,Food & beverage,267357.68,267840.0
+2023-06,expense,Labour,284448.58,276480.0
+2023-06,expense,Rent,61618.42,62000.0
+2023-06,expense,Utilities,23385.18,24000.0
+2023-06,expense,Marketing,22170.88,22000.0
+2023-06,expense,Maintenance,11183.82,11000.0
+2023-06,expense,Admin,27613.22,28000.0
+2023-07,revenue,Dine-in,553107.72,572000.0
+2023-07,revenue,Delivery,227906.18,231000.0
+2023-07,revenue,Catering,79858.71,77000.0
+2023-07,expense,Food & beverage,277023.61,272800.0
+2023-07,expense,Labour,275145.59,281600.0
+2023-07,expense,Rent,61056.56,62000.0
+2023-07,expense,Utilities,23425.51,24000.0
+2023-07,expense,Marketing,21419.06,22000.0
+2023-07,expense,Maintenance,11196.03,11000.0
+2023-07,expense,Admin,27458.5,28000.0
+2023-08,revenue,Dine-in,559039.35,556400.0
+2023-08,revenue,Delivery,223754.91,224700.0
+2023-08,revenue,Catering,73046.58,74900.0
+2023-08,expense,Food & beverage,269052.13,265360.0
+2023-08,expense,Labour,267854.87,273920.0
+2023-08,expense,Rent,62534.62,62000.0
+2023-08,expense,Utilities,23447.77,24000.0
+2023-08,expense,Marketing,21895.4,22000.0
+2023-08,expense,Maintenance,10810.49,11000.0
+2023-08,expense,Admin,27613.26,28000.0
+2023-09,revenue,Dine-in,539590.65,520000.0
+2023-09,revenue,Delivery,215097.31,210000.0
+2023-09,revenue,Catering,68903.21,70000.0
+2023-09,expense,Food & beverage,253726.79,248000.0
+2023-09,expense,Labour,251556.51,256000.0
+2023-09,expense,Rent,61606.7,62000.0
+2023-09,expense,Utilities,24510.3,24000.0
+2023-09,expense,Marketing,22187.22,22000.0
+2023-09,expense,Maintenance,10736.22,11000.0
+2023-09,expense,Admin,28822.03,28000.0
+2023-10,revenue,Dine-in,508070.92,520000.0
+2023-10,revenue,Delivery,205939.06,210000.0
+2023-10,revenue,Catering,71527.06,70000.0
+2023-10,expense,Food & beverage,245454.86,248000.0
+2023-10,expense,Labour,252871.55,256000.0
+2023-10,expense,Rent,60413.04,62000.0
+2023-10,expense,Utilities,23409.77,24000.0
+2023-10,expense,Marketing,22109.21,22000.0
+2023-10,expense,Maintenance,10830.39,11000.0
+2023-10,expense,Admin,28170.16,28000.0
+2023-11,revenue,Dine-in,530102.77,535600.0
+2023-11,revenue,Delivery,215490.31,216300.0
+2023-11,revenue,Catering,74748.29,72100.0
+2023-11,expense,Food & beverage,255190.56,255440.0
+2023-11,expense,Labour,264859.78,263680.0
+2023-11,expense,Rent,63363.48,62000.0
+2023-11,expense,Utilities,23543.27,24000.0
+2023-11,expense,Marketing,21543.46,22000.0
+2023-11,expense,Maintenance,11269.56,11000.0
+2023-11,expense,Admin,28533.91,28000.0
+2023-12,revenue,Dine-in,601303.39,613600.0
+2023-12,revenue,Delivery,241650.61,247800.0
+2023-12,revenue,Catering,84182.12,82600.0
+2023-12,expense,Food & beverage,300372.81,292640.0
+2023-12,expense,Labour,296580.75,302080.0
+2023-12,expense,Rent,63674.51,62000.0
+2023-12,expense,Utilities,24550.35,24000.0
+2023-12,expense,Marketing,22136.67,22000.0
+2023-12,expense,Maintenance,10948.16,11000.0
+2023-12,expense,Admin,27334.45,28000.0
+2024-01,revenue,Dine-in,488389.69,507104.0
+2024-01,revenue,Delivery,212372.28,204792.0
+2024-01,revenue,Catering,66835.41,68264.0
+2024-01,expense,Food & beverage,244818.25,241849.6
+2024-01,expense,Labour,246011.01,249651.2
+2024-01,expense,Rent,64468.31,63240.0
+2024-01,expense,Utilities,24621.69,24480.0
+2024-01,expense,Marketing,22161.88,22440.0
+2024-01,expense,Maintenance,11001.5,11220.0
+2024-01,expense,Admin,28937.6,28560.0
+2024-02,revenue,Dine-in,478966.28,496080.0
+2024-02,revenue,Delivery,195986.95,200340.0
+2024-02,revenue,Catering,67097.16,66780.0
+2024-02,expense,Food & beverage,241594.5,236592.0
+2024-02,expense,Labour,245898.93,244224.0
+2024-02,expense,Rent,62406.06,63240.0
+2024-02,expense,Utilities,25093.02,24480.0
+2024-02,expense,Marketing,22041.44,22440.0
+2024-02,expense,Maintenance,10894.56,11220.0
+2024-02,expense,Admin,28164.49,28560.0
+2024-03,revenue,Dine-in,532341.66,534664.0
+2024-03,revenue,Delivery,208329.42,215922.0
+2024-03,revenue,Catering,70109.9,71974.0
+2024-03,expense,Food & beverage,252986.07,254993.6
+2024-03,expense,Labour,264358.98,263219.2
+2024-03,expense,Rent,61842.06,63240.0
+2024-03,expense,Utilities,24277.52,24480.0
+2024-03,expense,Marketing,22966.36,22440.0
+2024-03,expense,Maintenance,11543.47,11220.0
+2024-03,expense,Admin,28828.92,28560.0
+2024-04,revenue,Dine-in,559632.11,551200.0
+2024-04,revenue,Delivery,224103.71,222600.0
+2024-04,revenue,Catering,72065.1,74200.0
+2024-04,expense,Food & beverage,255546.92,262880.0
+2024-04,expense,Labour,263510.55,271360.0
+2024-04,expense,Rent,64796.51,63240.0
+2024-04,expense,Utilities,24775.18,24480.0
+2024-04,expense,Marketing,23063.07,22440.0
+2024-04,expense,Maintenance,10897.71,11220.0
+2024-04,expense,Admin,28793.37,28560.0
+2024-05,revenue,Dine-in,577937.5,578760.0
+2024-05,revenue,Delivery,238039.94,233730.0
+2024-05,revenue,Catering,76781.27,77910.0
+2024-05,expense,Food & beverage,284294.08,276024.0
+2024-05,expense,Labour,277666.83,284928.0
+2024-05,expense,Rent,63414.9,63240.0
+2024-05,expense,Utilities,24828.11,24480.0
+2024-05,expense,Marketing,22978.82,22440.0
+2024-05,expense,Maintenance,11379.61,11220.0
+2024-05,expense,Admin,28909.04,28560.0
+2024-06,revenue,Dine-in,609262.44,595296.0
+2024-06,revenue,Delivery,248389.6,240408.0
+2024-06,revenue,Catering,79186.13,80136.0
+2024-06,expense,Food & beverage,287064.29,283910.4
+2024-06,expense,Labour,300117.15,293068.8
+2024-06,expense,Rent,64648.11,63240.0
+2024-06,expense,Utilities,24358.31,24480.0
+2024-06,expense,Marketing,22831.17,22440.0
+2024-06,expense,Maintenance,11464.69,11220.0
+2024-06,expense,Admin,28684.76,28560.0
+2024-07,revenue,Dine-in,612381.29,606320.0
+2024-07,revenue,Delivery,242555.06,244860.0
+2024-07,revenue,Catering,82159.86,81620.0
+2024-07,expense,Food & beverage,291056.85,289168.0
+2024-07,expense,Labour,290977.52,298496.0
+2024-07,expense,Rent,63768.96,63240.0
+2024-07,expense,Utilities,25204.59,24480.0
+2024-07,expense,Marketing,22951.35,22440.0
+2024-07,expense,Maintenance,11373.63,11220.0
+2024-07,expense,Admin,28368.82,28560.0
+2024-08,revenue,Dine-in,600873.74,589784.0
+2024-08,revenue,Delivery,239724.52,238182.0
+2024-08,revenue,Catering,79016.23,79394.0
+2024-08,expense,Food & beverage,286992.24,281281.6
+2024-08,expense,Labour,283104.14,290355.2
+2024-08,expense,Rent,64189.4,63240.0
+2024-08,expense,Utilities,23789.36,24480.0
+2024-08,expense,Marketing,22576.37,22440.0
+2024-08,expense,Maintenance,11207.18,11220.0
+2024-08,expense,Admin,28097.71,28560.0
+2024-09,revenue,Dine-in,559945.77,551200.0
+2024-09,revenue,Delivery,222551.04,222600.0
+2024-09,revenue,Catering,74879.69,74200.0
+2024-09,expense,Food & beverage,269511.9,262880.0
+2024-09,expense,Labour,267384.53,271360.0
+2024-09,expense,Rent,61385.7,63240.0
+2024-09,expense,Utilities,24187.76,24480.0
+2024-09,expense,Marketing,22679.84,22440.0
+2024-09,expense,Maintenance,11019.77,11220.0
+2024-09,expense,Admin,27993.84,28560.0
+2024-10,revenue,Dine-in,569090.7,551200.0
+2024-10,revenue,Delivery,225449.1,222600.0
+2024-10,revenue,Catering,73855.31,74200.0
+2024-10,expense,Food & beverage,269058.63,262880.0
+2024-10,expense,Labour,268542.64,271360.0
+2024-10,expense,Rent,63869.49,63240.0
+2024-10,expense,Utilities,24037.17,24480.0
+2024-10,expense,Marketing,22346.96,22440.0
+2024-10,expense,Maintenance,11425.99,11220.0
+2024-10,expense,Admin,29269.81,28560.0
+2024-11,revenue,Dine-in,585007.39,567736.0
+2024-11,revenue,Delivery,227157.98,229278.0
+2024-11,revenue,Catering,76934.12,76426.0
+2024-11,expense,Food & beverage,267785.05,270766.4
+2024-11,expense,Labour,273399.46,279500.8
+2024-11,expense,Rent,63226.59,63240.0
+2024-11,expense,Utilities,24975.13,24480.0
+2024-11,expense,Marketing,22909.52,22440.0
+2024-11,expense,Maintenance,11362.19,11220.0
+2024-11,expense,Admin,29331.12,28560.0
+2024-12,revenue,Dine-in,638801.96,650416.0
+2024-12,revenue,Delivery,255715.26,262668.0
+2024-12,revenue,Catering,87210.33,87556.0
+2024-12,expense,Food & beverage,306013.75,310198.4
+2024-12,expense,Labour,314711.63,320204.8
+2024-12,expense,Rent,62913.62,63240.0
+2024-12,expense,Utilities,24664.68,24480.0
+2024-12,expense,Marketing,22431.75,22440.0
+2024-12,expense,Maintenance,11095.71,11220.0
+2024-12,expense,Admin,29141.11,28560.0
+2025-01,revenue,Dine-in,551501.84,531024.0
+2025-01,revenue,Delivery,220045.79,214452.0
+2025-01,revenue,Catering,69051.71,71484.0
+2025-01,expense,Food & beverage,246138.31,253257.6
+2025-01,expense,Labour,264564.33,261427.2
+2025-01,expense,Rent,62730.23,64504.8
+2025-01,expense,Utilities,25282.17,24969.6
+2025-01,expense,Marketing,22985.73,22888.8
+2025-01,expense,Maintenance,11313.27,11444.4
+2025-01,expense,Admin,29640.73,29131.2
+2025-02,revenue,Dine-in,499495.15,519480.0
+2025-02,revenue,Delivery,209789.29,209790.0
+2025-02,revenue,Catering,69677.31,69930.0
+2025-02,expense,Food & beverage,240687.0,247752.0
+2025-02,expense,Labour,261881.86,255744.0
+2025-02,expense,Rent,63488.5,64504.8
+2025-02,expense,Utilities,24431.57,24969.6
+2025-02,expense,Marketing,22266.6,22888.8
+2025-02,expense,Maintenance,11533.1,11444.4
+2025-02,expense,Admin,29037.66,29131.2
+2025-03,revenue,Dine-in,565705.19,559884.0
+2025-03,revenue,Delivery,235778.85,226107.0
+2025-03,revenue,Catering,77222.38,75369.0
+2025-03,expense,Food & beverage,274366.73,267021.6
+2025-03,expense,Labour,285558.07,275635.2
+2025-03,expense,Rent,63341.16,64504.8
+2025-03,expense,Utilities,24932.36,24969.6
+2025-03,expense,Marketing,22447.53,22888.8
+2025-03,expense,Maintenance,11108.46,11444.4
+2025-03,expense,Admin,29082.61,29131.2
+2025-04,revenue,Dine-in,587089.56,577200.0
+2025-04,revenue,Delivery,233929.31,233100.0
+2025-04,revenue,Catering,76284.96,77700.0
+2025-04,expense,Food & beverage,272732.11,275280.0
+2025-04,expense,Labour,297799.68,284160.0
+2025-04,expense,Rent,64583.84,64504.8
+2025-04,expense,Utilities,25141.06,24969.6
+2025-04,expense,Marketing,23240.66,22888.8
+2025-04,expense,Maintenance,11371.28,11444.4
+2025-04,expense,Admin,29641.46,29131.2
+2025-05,revenue,Dine-in,625756.32,606060.0
+2025-05,revenue,Delivery,243772.57,244755.0
+2025-05,revenue,Catering,84408.52,81585.0
+2025-05,expense,Food & beverage,292900.61,289044.0
+2025-05,expense,Labour,316270.08,298368.0
+2025-05,expense,Rent,64324.97,64504.8
+2025-05,expense,Utilities,25157.69,24969.6
+2025-05,expense,Marketing,23451.82,22888.8
+2025-05,expense,Maintenance,11359.8,11444.4
+2025-05,expense,Admin,29251.48,29131.2
+2025-06,revenue,Dine-in,642292.76,623376.0
+2025-06,revenue,Delivery,265456.59,251748.0
+2025-06,revenue,Catering,86898.43,83916.0
+2025-06,expense,Food & beverage,296655.01,297302.4
+2025-06,expense,Labour,328989.08,306892.8
+2025-06,expense,Rent,63362.66,64504.8
+2025-06,expense,Utilities,25302.1,24969.6
+2025-06,expense,Marketing,23325.99,22888.8
+2025-06,expense,Maintenance,11541.64,11444.4
+2025-06,expense,Admin,29511.65,29131.2
+2025-07,revenue,Dine-in,620357.3,634920.0
+2025-07,revenue,Delivery,272553.23,256410.0
+2025-07,revenue,Catering,88755.42,85470.0
+2025-07,expense,Food & beverage,311480.88,302808.0
+2025-07,expense,Labour,338832.38,312576.0
+2025-07,expense,Rent,65630.23,64504.8
+2025-07,expense,Utilities,24700.52,24969.6
+2025-07,expense,Marketing,29883.12,22888.8
+2025-07,expense,Maintenance,27466.56,11444.4
+2025-07,expense,Admin,28401.94,29131.2
+2025-08,revenue,Dine-in,614684.03,617604.0
+2025-08,revenue,Delivery,257933.31,249417.0
+2025-08,revenue,Catering,84923.05,83139.0
+2025-08,expense,Food & beverage,294327.76,294549.6
+2025-08,expense,Labour,333240.12,304051.2
+2025-08,expense,Rent,65701.26,64504.8
+2025-08,expense,Utilities,24316.48,24969.6
+2025-08,expense,Marketing,28320.07,22888.8
+2025-08,expense,Maintenance,11331.1,11444.4
+2025-08,expense,Admin,29634.42,29131.2
+2025-09,revenue,Dine-in,560599.74,577200.0
+2025-09,revenue,Delivery,233344.96,233100.0
+2025-09,revenue,Catering,77802.72,77700.0
+2025-09,expense,Food & beverage,278972.6,275280.0
+2025-09,expense,Labour,314849.28,284160.0
+2025-09,expense,Rent,65237.72,64504.8
+2025-09,expense,Utilities,25637.41,24969.6
+2025-09,expense,Marketing,30096.84,22888.8
+2025-09,expense,Maintenance,11160.14,11444.4
+2025-09,expense,Admin,28644.27,29131.2
+2025-10,revenue,Dine-in,578431.21,577200.0
+2025-10,revenue,Delivery,236062.7,233100.0
+2025-10,revenue,Catering,79122.49,77700.0
+2025-10,expense,Food & beverage,277573.71,275280.0
+2025-10,expense,Labour,318259.2,284160.0
+2025-10,expense,Rent,65834.72,64504.8
+2025-10,expense,Utilities,25059.45,24969.6
+2025-10,expense,Marketing,28796.9,22888.8
+2025-10,expense,Maintenance,11681.48,11444.4
+2025-10,expense,Admin,29831.27,29131.2
+2025-11,revenue,Dine-in,580639.5,594516.0
+2025-11,revenue,Delivery,254235.33,240093.0
+2025-11,revenue,Catering,83030.18,80031.0
+2025-11,expense,Food & beverage,283950.54,283538.4
+2025-11,expense,Labour,331319.19,292684.8
+2025-11,expense,Rent,63347.46,64504.8
+2025-11,expense,Utilities,25023.39,24969.6
+2025-11,expense,Marketing,29309.63,22888.8
+2025-11,expense,Maintenance,11120.13,11444.4
+2025-11,expense,Admin,29951.66,29131.2
+2025-12,revenue,Dine-in,681968.77,681096.0
+2025-12,revenue,Delivery,281056.5,275058.0
+2025-12,revenue,Catering,93894.3,91686.0
+2025-12,expense,Food & beverage,326055.66,324830.4
+2025-12,expense,Labour,383593.27,335308.8
+2025-12,expense,Rent,65243.97,64504.8
+2025-12,expense,Utilities,24319.24,24969.6
+2025-12,expense,Marketing,28871.42,22888.8
+2025-12,expense,Maintenance,11758.11,11444.4
+2025-12,expense,Admin,29871.28,29131.2
